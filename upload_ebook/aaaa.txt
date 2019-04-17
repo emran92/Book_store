@@ -1,0 +1,24 @@
+    <style>
+.headline {
+	text-align: center;
+}
+.headline h1 {
+	margin-bottom: 0;
+}
+.headline p {
+	margin-top: 0;
+}
+    
+    
+/*---------------------------------
+	LAYOUT
+-----------------------------------*/
+body{
+margin:0;
+padding:0;
+color:#000;
+background:#efefef url(css/img/background.jpg) repeat center top;
+font:normal 0.9em/150% 'Arimo', "Trebuchet MS", arial, verdana, sans-serif;
+text-shadow: 0px 0px 1px transparent; /* google font pixelation fix */
+}
+</style>

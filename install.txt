@@ -1,0 +1,11 @@
+Step 1: Create a database name: "book_store"
+step 2: import "book_store.sql" file from database folder
+
+Login
+User: admin
+Pass: admin
+
+
+
+
+ 
